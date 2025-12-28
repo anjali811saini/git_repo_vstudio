@@ -1,0 +1,11 @@
+﻿# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.tmp
+*.log
+*.exe
+*.dll
+													   
