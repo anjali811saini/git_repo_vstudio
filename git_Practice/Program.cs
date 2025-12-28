@@ -17,6 +17,7 @@ namespace git_Practice
 
 
             Console.WriteLine(sum);
+
             Console.Write("");
             Console.ReadKey();
         }
